@@ -1,0 +1,37 @@
+
+	h1 {
+	font-family:lucia-grande;
+	font-size: 50px;
+	color:black;
+	background-color:#2EFEF7;}
+	#home {
+	text-align: center;
+	font-size:28px;
+	display:inline-block;
+	padding:30px;
+	position: relative;
+	left:25%;
+	background-color:#BDBDBD;
+	background
+	}
+	a {color:#2EFEF7;
+	text-decoration:none;
+	font-size:30px
+	}
+	body {background-image:url(https://secure.static.tumblr.com/4267108e35b0be177984cc29eaf4c741/ef9vek0/zQkmrw5e4/tumblr_static_2710186_6679604_lz.jpg);
+	background-size:cover;}
+	p {background-color:#BDBDBD;
+	color:#2EFEF7;
+	text-align:center;
+	font-size:30px;}
+	#image {position:relative;
+		left: 300px
+	}
+	#opa {
+	font-size:30px;
+	text-align:center;
+	list-style:none;
+	background-color:#BDBDBD;
+	}
+	#tophead {position:relative;
+	top:20px;}
